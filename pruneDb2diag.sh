@@ -5,8 +5,7 @@
 ##
 ## purge files over this age
 ##
-# AGE=92
-AGE=93
+AGE=92
 
 . ~/DBscriptConfig
 
